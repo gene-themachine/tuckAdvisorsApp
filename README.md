@@ -1,2 +1,2 @@
 # tuckAdvisorsApp
-# Application to 2025 Winter SWE Internship
+Application to 2025 Winter SWE Internship
